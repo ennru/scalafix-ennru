@@ -1,0 +1,6 @@
+.cache
+.history
+target/
+.idea
+.ensime_cache/
+.ensime
